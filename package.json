@@ -10,7 +10,7 @@
     "aws-ssm",
     "parameter store"
   ],
-  "author": "Henry Megwai",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1186.0"
